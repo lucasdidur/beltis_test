@@ -89,5 +89,19 @@
       "date_time": "2024-07-04T15:30:00Z",
       "id_pacote": 4
     }
-  ]
+  ],
+  "caixa_pacote_status": {
+    "recebimento": {
+      "recebido": 1560,
+      "faltante": 440,
+      "porcentagemRecebido": 75,
+      "porcentagemFaltante": 25
+    },
+    "devolucao": {
+      "devolvido": 1560,
+      "faltante": 440,
+      "porcentagemDevolvido": 75,
+      "porcentagemFaltante": 25
+    }
+  }
 }
