@@ -40,22 +40,30 @@
     {
       "id": 1,
       "caixaId": 1,
-      "codigo": "160500003517-85"
+      "codigo": "160500003517-85",
+      "recebido": true,
+      "devolvido": true
     },
     {
       "id": 2,
       "caixaId": 1,
-      "codigo": "160500003518-85"
+      "codigo": "160500003518-85",
+      "recebido": false,
+      "devolvido": false
     },
     {
       "id": 3,
       "caixaId": 1,
-      "codigo": "160500003519-85"
+      "codigo": "160500003519-85",
+      "recebido": true,
+      "devolvido": false
     },
     {
       "id": 4,
       "caixaId": 1,
-      "codigo": "160500003520-85"
+      "codigo": "160500003520-85",
+      "recebido": false,
+      "devolvido": false
     }
   ],
   "pacote_status": [
