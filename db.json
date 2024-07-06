@@ -13,25 +13,25 @@
   "caixa_status": [
     {
       "id": 1,
-      "status": 1,
+      "status": "recebeu",
       "dateTime": "2024-07-04T08:00:00Z",
       "caixaId": 1
     },
     {
       "id": 2,
-      "status": 2,
+      "status": "abriu",
       "dateTime": "2024-07-04T09:00:00Z",
       "caixaId": 1
     },
     {
       "id": 3,
-      "status": 3,
+      "status": "leu",
       "dateTime": "2024-07-04T10:00:00Z",
       "caixaId": 1
     },
     {
       "id": 4,
-      "status": 4,
+      "status": "devolveu",
       "dateTime": "2024-07-04T11:00:00Z",
       "caixaId": 1
     }
@@ -61,31 +61,31 @@
   "pacote_status": [
     {
       "id": 1,
-      "status": 1,
+      "status": "recebido",
       "dateTime": "2024-07-04T12:00:00Z",
       "pacoteId": 1
     },
     {
       "id": 2,
-      "status": 2,
+      "status": "devolvido",
       "dateTime": "2024-07-04T14:00:00Z",
       "pacoteId": 1
     },
     {
       "id": 5,
-      "status": 1,
+      "status": "recebido",
       "dateTime": "2024-07-04T13:00:00Z",
       "pacoteId": 3
     },
     {
       "id": 7,
-      "status": 1,
+      "status": "recebido",
       "dateTime": "2024-07-04T13:30:00Z",
       "pacoteId": 4
     },
     {
       "id": 8,
-      "status": 2,
+      "status": "devolvido",
       "dateTime": "2024-07-04T15:30:00Z",
       "pacoteId": 4
     }
@@ -99,5 +99,5 @@
     "devolucaoFaltante": 440,
     "devolucaoPorcentagemDevolvido": 75,
     "devolucaoPorcentagemFaltante": 25
-}
+  }
 }
