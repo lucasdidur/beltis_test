@@ -91,6 +91,8 @@
     }
   ],
   "caixa_pacote_status": {
+    "id": 1,
+    "caixaId": 1,
     "recebimentoRecebido": 1560,
     "recebimentoFaltante": 440,
     "recebimentoPorcentagemRecebido": 75,
