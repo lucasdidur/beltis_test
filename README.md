@@ -23,7 +23,10 @@ flutter test
 
 ## Screenshots
 
-|   |   |   |
-| ![Login](/1-login.png?raw=true "Login") | ![Package List](/2-package_list.png?raw=true "Package List") | ![Package Details](/3-package_details.png?raw=true "Package Details") |
-|   |   |   |
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/lucasdidur/beltis_test/master/1-login.png" width="250"/></td>
+        <td><img src="https://raw.githubusercontent.com/lucasdidur/beltis_test/master/2-package_list.png" width="250"/></td>
+		    <td><img src="https://raw.githubusercontent.com/lucasdidur/beltis_test/master/3-package_details.png" width="250"/></td>
+  </tr>
+</table>
